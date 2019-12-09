@@ -9,7 +9,5 @@
   <project path="hybris/hybris-boot" name="Sailfish-On-Vince/hybris-boot" revision="master" />
   
   <project path="rpm" name="Sailfish-On-Vince/droid-hal-vince" revision="master" />
-  
-  <project path="external/droidmedia"  name="Sailfish-On-Vince/droidmedia" revision="master"/>
-  
+ 
 </manifest>
