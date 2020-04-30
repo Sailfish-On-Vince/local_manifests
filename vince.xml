@@ -2,10 +2,10 @@
 <manifest>
   <project path="device/xiaomi/vince" name="Sailfish-On-Vince/android_device_xiaomi_vince" revision="lineage-15.1"/>
   <project path="device/xiaomi/msm8953-common" name="Sailfish-On-Vince/android_device_xiaomi_msm8953-common" revision="lineage-15.1-vince"/>
-  <project path="vendor/xiaomi/vince" name="BeastRoms-Devices/proprietary_vendor_xiaomi_vince" revision="pie" />
+  <project path="vendor/xiaomi/vince" name="Sailfish-On-Vince/proprietary_vendor_xiaomi" revision="lineage-15.1" />
   <project path="kernel/xiaomi/msm8953" name="Sailfish-On-Vince/android_kernel_xiaomi_msm8953" revision="vince-oreo-mr1" />
   <project path="hybris/droid-hal-version-vince" name="Sailfish-On-Vince/droid-hal-version-vince" revision="master" />
-  <project path="hybris/droid-configs" name="Sailfish-On-Vince/droid-config-vince" revision="hybris-15.1" />
+  <project path="hybris/droid-configs" name="Sailfish-On-Vince/droid-config-vince-oreo" revision="master" />
   <remove-project name="mer-hybris/hybris-boot" />
   <project path="hybris/hybris-boot" name="Sailfish-On-Vince/hybris-boot" revision="hybris-15.1" />
  
